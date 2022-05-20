@@ -1010,7 +1010,7 @@ BORDER RIGHT and IMAGES MEDIA QUERY
     margin-top: 6rem;
     padding-top: 6rem;
     height: 800px;
-    background-image: url("images/marquee-background.png"); /* The image used */
+    background-image: url("./marquee-background.png"); /* The image used */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; 
