@@ -804,14 +804,14 @@ BORDER RIGHT and IMAGES MEDIA QUERY
 }
 
 .box1 {
-    background-image: url("images/swoop1.png");
+    background-image: url("./swoop1.png");
 }
 .box2 {
-    background-image: url("images/swoop2.png");
+    background-image: url("./swoop2.png");
 }
 
 .box3 {
-    background-image: url("images/swoop3.png");
+    background-image: url("./swoop3.png");
 }
 
 .icon-quote {
