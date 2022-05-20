@@ -707,7 +707,7 @@ BORDER RIGHT and IMAGES MEDIA QUERY
 .section-3-hero-img {
     width: 100%;
     max-height: 100%;
-    background-image: url("images/Delbert\ Day\ with\ overlay.png"); /* The image used */
+    background-image: url("./Delbert\ Day\ with\ overlay.png"); /* The image used */
   background-color: #1f2446; /* Used if the image is unavailable */
   height: 600px; /* You must set a specified height */
   background-position: center; /* Center the image */
@@ -755,8 +755,6 @@ BORDER RIGHT and IMAGES MEDIA QUERY
 ========================*/
 .section-4 {
     width: 100%;
-    
-      
 }
 
 .section-4 h2 {
@@ -934,8 +932,6 @@ BORDER RIGHT and IMAGES MEDIA QUERY
     width:80%;
     margin: 0 auto;
    
-    
-    
 }
 
 .navydots {
